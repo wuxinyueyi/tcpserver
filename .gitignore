@@ -1,0 +1,5 @@
+build/
+/msvcproject/.vs/tcpserver/v15
+/msvcproject/Debug
+/msvcproject/Release
+/msvcproject/stressclient/Debug
